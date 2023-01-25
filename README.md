@@ -7,8 +7,14 @@ An author of various books on Myanmar Language such as [HTML 5](https://html5boo
 Currently, I am a co-founder and the tech lead at COMQUAS Co., Ltd. where I am responsible for managing the technology aspect of the company.
 
 
+## Github Profile
+
 <div>
   <a href="https://github.com/saturngod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saturngod&count_private=true&theme=cobalt&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturngod&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+  
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saturngod&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)

@@ -4,8 +4,6 @@ I am also the creator of the Rabbit and Ornagai Dictionary, which includes a con
 
 An author of various books on Myanmar Language such as [HTML 5](https://html5book.saturngod.net/), [Programming Basic](https://books.saturngod.net/programming_basic/) , [Database Basic](https://dbbasic.saturngod.net/) and [Developer Intern](https://devint.saturngod.net/)
 
-Currently, I am a co-founder and the tech lead at COMQUAS Co., Ltd. where I am responsible for managing the technology aspect of the company.
-
 
 ## Github Profile
 

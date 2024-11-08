@@ -1,6 +1,6 @@
 I've been a developer since 2007, specializing in mobile application development using Flutter, iOS, and Laravel for back-end solutions. My expertise in Laravel for API and back-end development, SwiftUI for native iOS, and Next.js for front-end design has enabled me to create high-performance, user-friendly applications.
 
-I am also the creator of the Rabbit and Ornagai Dictionary, which includes a conversion tool for Zawgyi Unicode and Myanmar Standard Unicode, as well as an English-to-Myanmar and Myanmar-to-English dictionary.
+I am also the creator of [Rabbit](http://rabbit-converter.org/), a conversion tool for Zawgyi Unicode and Myanmar Standard Unicode, and [Ornagai Dictionary](https://www.ornagai.com), an English-to-Myanmar and Myanmar-to-English dictionary.
 
 I have authored several books on the Myanmar language, including [HTML 5](https://html5book.saturngod.net/), [Programming Basics](https://books.saturngod.net/programming_basic/), [Database Basics](https://dbbasic.saturngod.net/), [Developer Intern](https://devint.saturngod.net/), and [Design Patterns](https://designpatterns.saturngod.net).
 

@@ -6,7 +6,7 @@ I have authored several books on the Myanmar language, including [HTML 5](https:
 
 ## Tech Stack
 
-- Mobile: Flutter
+- Mobile: Flutter, SwiftUI, UIKit
 - Backend: Laravel, Express, NextJS
 - Frontend: ReactJS
 

@@ -38,4 +38,5 @@ I am currently writing **[Software Engineer](https://se.saturngod.net)**.
 
 * YouTube: [https://www.youtube.com/@saturngod](https://www.youtube.com/@saturngod)
 * X (Twitter): [https://x.com/saturngod](https://x.com/saturngod)
+* Facebook: [https://www.facebook.com/saturngod.blog.news](https://www.facebook.com/saturngod.blog.news)
 

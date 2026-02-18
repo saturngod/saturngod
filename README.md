@@ -3,8 +3,7 @@ I have been a software developer since 2007, with a strong focus on mobile appli
 **Core expertise:**
 
 * Mobile development: Flutter, SwiftUI (native iOS)
-* Backend and API development: Laravel
-* Frontend development: Next.js
+* Fullstack: React + Typescript + Laravel
 
 I place a strong emphasis on clean architecture, code quality, and long-term maintainability.
 
@@ -29,8 +28,8 @@ I have authored several technical books in the Myanmar language:
 * **[Database Basics](https://dbbasic.saturngod.net/)**
 * **[Developer Intern](https://devint.saturngod.net/)**
 * **[Design Patterns](https://designpatterns.saturngod.net/)**
+* **[Software Engineer](https://se.saturngod.net/)**
 
-I am currently writing **[Software Engineer](https://se.saturngod.net)**.
 
 ---
 

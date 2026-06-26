@@ -23,12 +23,13 @@ I place a strong emphasis on clean architecture, code quality, and long-term mai
 
 I have authored several technical books in the Myanmar language:
 
-* **[HTML 5](https://html5book.saturngod.net/)**
+* **[HTML 5](https://html5.saturngod.net/)**
 * **[Programming Basics](https://books.saturngod.net/programming_basic/)**
 * **[Database Basics](https://dbbasic.saturngod.net/)**
 * **[Developer Intern](https://devint.saturngod.net/)**
 * **[Design Patterns](https://designpatterns.saturngod.net/)**
 * **[Software Engineer](https://se.saturngod.net/)**
+* * **[Algorithm](https://algorithm.saturngod.net/)**
 
 
 ---

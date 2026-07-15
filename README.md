@@ -29,7 +29,7 @@ I have authored several technical books in the Myanmar language:
 * **[Developer Intern](https://devint.saturngod.net/)**
 * **[Design Patterns](https://designpatterns.saturngod.net/)**
 * **[Software Engineer](https://se.saturngod.net/)**
-* * **[Algorithm](https://algorithm.saturngod.net/)**
+* **[Algorithm](https://algorithm.saturngod.net/)**
 
 
 ---

@@ -1,52 +1,55 @@
-I have been a software developer since 2007, with a strong focus on mobile application development and full-stack engineering. My professional experience spans mobile, backend, and frontend technologies, enabling me to deliver scalable, high-performance, and maintainable applications.
+# Hi, I'm Htain Shwe 👋
 
-**Core expertise:**
+Software engineer, technology builder, and author with 19+ years of experience creating mobile apps, web platforms, APIs, and production systems.
 
-* Mobile development: Flutter, SwiftUI (native iOS)
-* Fullstack: React + Typescript + Laravel
+I enjoy turning complex requirements into simple, reliable products—with a particular interest in developer tools, digital payments, language technology, media platforms, and practical applications of AI.
 
-I place a strong emphasis on clean architecture, code quality, and long-term maintainability.
+## What I do
 
----
+- Build mobile applications with Swift, SwiftUI, and Flutter
+- Build full-stack products with React, TypeScript, Laravel, and REST APIs
+- Design scalable cloud systems and production infrastructure
+- Create AI features with LLM tool calling, RAG, semantic search, and document Q&A
+- Improve reliability with automated testing, CI/CD, queues, caching, and observability
+- Write and teach about software engineering in Myanmar language
 
-### Open Source Projects & Products
+## Selected projects
 
-* **[Rabbit Converter](http://rabbit-converter.org/)**
-  A conversion tool for Zawgyi Unicode and Myanmar Standard Unicode.
+### Open source and language technology
 
-* **[Ornagai Dictionary](https://www.ornagai.com)**
-  An English–Myanmar and Myanmar–English dictionary designed to support language learners and native speakers.
+- **[Rabbit Converter](http://rabbit-converter.org/)** — An open-source Zawgyi–Unicode converter supporting 14 programming languages and helping developers build Unicode-compatible software.
+- **[Ornagai Dictionary](https://www.ornagai.com)** — An English–Myanmar and Myanmar–English dictionary with open data and a REST API.
+- **[Oxygen](https://github.com/saturngod/oxygen)** — An open-source project for building useful developer tools and software for the Myanmar language ecosystem.
+- **[Myanso Terminal](https://myanso.myanmars.app/)** — A terminal experience designed to work well with Myanmar Unicode.
 
----
+### Apps and products
 
-### Publications
+- **[Yay](https://yay.myanmars.app/)** — A native Swift Markdown editor with syntax highlighting, rich-text editing, and export to PDF, EPUB, and HTML.
+- **[Zartar](https://zartar.myanmars.app/)** — A product from the Myanmar Apps collection.
+- **[Myanmar Apps](https://www.myanmars.app/)** — A collection of tools and products for Myanmar users.
 
-I have authored several technical books in the Myanmar language:
+I have also designed payment platforms, mobile wallets, streaming services, and enterprise systems used at significant scale. Details about private client and employment work are intentionally omitted.
 
-* **[HTML 5](https://html5.saturngod.net/)**
-* **[Programming Basics](https://books.saturngod.net/programming_basic/)**
-* **[Database Basics](https://dbbasic.saturngod.net/)**
-* **[Developer Intern](https://devint.saturngod.net/)**
-* **[Design Patterns](https://designpatterns.saturngod.net/)**
-* **[Software Engineer](https://se.saturngod.net/)**
-* **[Algorithm](https://algorithm.saturngod.net/)**
+## Writing and education
 
+I have written technical books in Myanmar language covering:
 
----
+- [HTML 5](https://html5.saturngod.net/)
+- [Programming Basics](https://books.saturngod.net/programming_basic/)
+- [Database Basics](https://dbbasic.saturngod.net/)
+- [Developer Intern](https://devint.saturngod.net/)
+- [Design Patterns](https://designpatterns.saturngod.net/)
+- [Software Engineer](https://se.saturngod.net/)
+- [Algorithm](https://algorithm.saturngod.net/)
 
-### Products
+I hold a Master of Science in Computer Science and a bachelor's degree in Computer Science. My certifications include AWS Certified Developer – Associate, Professional Scrum Master I, Mendix Intermediate Developer, and MongoDB for Node.js Developers.
 
-* [Ornagai](https://www.ornagai.com)
-* [Myanso](https://myanso.myanmars.app/)
-* [Yay](https://yay.myanmars.app/)
-* [Zartar](https://zartar.myanmars.app/)
-* [Others](https://www.myanmars.app)
+## Technology
 
----
+`Swift` · `SwiftUI` · `Flutter` · `React` · `TypeScript` · `Laravel` · `PHP` · `Node.js` · `REST APIs` · `AWS` · `Docker` · `Redis` · `MongoDB` · `PostgreSQL` · `GitHub Actions` · `GitLab CI/CD` · `LLM applications` · `RAG`
 
-### Online Presence
+## Connect
 
-* YouTube: [https://www.youtube.com/@saturngod](https://www.youtube.com/@saturngod)
-* X (Twitter): [https://x.com/saturngod](https://x.com/saturngod)
-* Facebook: [https://www.facebook.com/saturngod.blog.news](https://www.facebook.com/saturngod.blog.news)
-
+- [YouTube](https://www.youtube.com/@saturngod)
+- [X / Twitter](https://x.com/saturngod)
+- [Facebook](https://www.facebook.com/saturngod.blog.news)

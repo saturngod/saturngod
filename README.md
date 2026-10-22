@@ -1,19 +1,36 @@
 # Hi, I'm Htain Lin Shwe 👋
 
+**Senior iOS Developer** — Swift · SwiftUI · UIKit · Objective-C
+US work-authorized (STEM OPT EAD through March 2028) — no sponsorship required · Conroe, TX · Open to relocation & remote
+
+## About
+
+Senior iOS engineer with 19+ years in software development. I built the **2C2P iOS SDK** for secure payment integrations across Southeast Asia and delivered banking & wallet apps (**AGD Bank Wallet**, **MCB Virtual Card App**). Recently: iOS development for **ConocoPhillips** at Bonjoy LLC, and **Sagarwar**, my AI-powered EPUB reader for iPhone/iPad on iOS 27. Founder of COMQUAS — our payment gateway (AYA Bank, Telenor Myanmar) processed 100M+ MMK in monthly transactions.
+
+
 Software engineer, technology builder, and author with 19+ years of experience creating mobile apps, web platforms, APIs, and production systems.
 
 I enjoy turning complex requirements into simple, reliable products—with a particular interest in developer tools, digital payments, language technology, media platforms, and practical applications of AI.
 
 ## What I do
 
+- Build iOS applications with Swift, SwiftUI, UIKit, and Objective-C
 - Build mobile applications with Swift, SwiftUI, and Flutter
+- Create AI features with LLM tool calling, RAG, semantic search, and document Q&A
+- Build and publish iOS SDKs (2C2P iOS SDK) with secure, well-documented APIs
+- Improve reliability with automated testing, CI/CD, queues, caching, and observability
 - Build full-stack products with React, TypeScript, Laravel, and REST APIs
 - Design scalable cloud systems and production infrastructure
-- Create AI features with LLM tool calling, RAG, semantic search, and document Q&A
-- Improve reliability with automated testing, CI/CD, queues, caching, and observability
 - Write and teach about software engineering in Myanmar language
 
 ## Selected projects
+
+### Apps and products
+
+- **[Sagarwar](https://apps.apple.com/us/app/sagarwar/id6824306177)** — AI-powered EPUB reader for iPhone/iPad on iOS 27: read EPUB books with on-device AI, chat with your books, chapter summaries, and translation.
+- **[Yay](https://yay.myanmars.app/)** — A native Swift Markdown editor with syntax highlighting, rich-text editing, and export to PDF, EPUB, and HTML.
+- **[Zartar](https://zartar.myanmars.app/)** — A product from the Myanmar Apps collection.
+- **[Myanmar Apps](https://www.myanmars.app/)** — A collection of tools and products for Myanmar users.
 
 ### Open source and language technology
 
@@ -21,12 +38,6 @@ I enjoy turning complex requirements into simple, reliable products—with a par
 - **[Ornagai Dictionary](https://www.ornagai.com)** — An English–Myanmar and Myanmar–English dictionary with open data and a REST API.
 - **[Oxygen](https://github.com/saturngod/oxygen)** — An open-source project for building useful developer tools and software for the Myanmar language ecosystem.
 - **[Myanso Terminal](https://myanso.myanmars.app/)** — A terminal experience designed to work well with Myanmar Unicode.
-
-### Apps and products
-
-- **[Yay](https://yay.myanmars.app/)** — A native Swift Markdown editor with syntax highlighting, rich-text editing, and export to PDF, EPUB, and HTML.
-- **[Zartar](https://zartar.myanmars.app/)** — A product from the Myanmar Apps collection.
-- **[Myanmar Apps](https://www.myanmars.app/)** — A collection of tools and products for Myanmar users.
 
 I have also designed payment platforms, mobile wallets, streaming services, and enterprise systems used at significant scale. Details about private client and employment work are intentionally omitted.
 
@@ -46,10 +57,11 @@ I hold a Master of Science in Computer Science and a bachelor's degree in Comput
 
 ## Technology
 
-`Swift` · `SwiftUI` · `Flutter` · `React` · `TypeScript` · `Laravel` · `PHP` · `Node.js` · `REST APIs` · `AWS` · `Docker` · `Redis` · `MongoDB` · `PostgreSQL` · `GitHub Actions` · `GitLab CI/CD` · `LLM applications` · `RAG`
+`Swift` · `SwiftUI` · `UIKit` · `Objective-C` · `Flutter` · `MVC (UIKit)` · `MVVM & MV (SwiftUI)` · `REST APIs` · `SDK Development` · `XCTest` · `CI/CD` · `App Store Connect` · `React` · `TypeScript` · `Laravel` · `PHP` · `Node.js` · `AWS` · `Docker` · `Redis` · `MongoDB` · `PostgreSQL` · `GitHub Actions` · `GitLab CI/CD` · `LLM applications` · `RAG`
 
 ## Connect
 
+- [LinkedIn](https://www.linkedin.com/in/htainshwe)
 - [YouTube](https://www.youtube.com/@saturngod)
 - [X / Twitter](https://x.com/saturngod)
 - [Facebook](https://www.facebook.com/saturngod.blog.news)

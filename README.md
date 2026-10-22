@@ -4,19 +4,14 @@
 
 ## About
 
-Senior iOS engineer with 19+ years in software development. I built the **2C2P iOS SDK** for secure payment integrations across Southeast Asia and delivered banking & wallet apps (**AGD Bank Wallet**, **MCB Virtual Card App**). Recently: iOS development for **ConocoPhillips** at Bonjoy LLC, and **Sagarwar**, my AI-powered EPUB reader for iPhone/iPad on iOS 27. Founder of COMQUAS — our payment gateway (AYA Bank, Telenor Myanmar) processed 100M+ MMK in monthly transactions.
-
-
-Software engineer, technology builder, and author with 19+ years of experience creating mobile apps, web platforms, APIs, and production systems.
-
-I enjoy turning complex requirements into simple, reliable products—with a particular interest in developer tools, digital payments, language technology, media platforms, and practical applications of AI.
+Software engineer, open-source creator, and author from Myanmar. I build iOS apps and Myanmar language technology — creator of Rabbit Converter (Zawgyi–Unicode conversion) and the Ornagai dictionary. I also write books and create videos in the Myanmar language to help developers learn programming. My latest app is Sagarwar, an AI-powered EPUB reader for iPhone and iPad.
 
 ## What I do
 
 - Build iOS applications with Swift, SwiftUI, UIKit, and Objective-C
 - Build mobile applications with Swift, SwiftUI, and Flutter
 - Create AI features with LLM tool calling, RAG, semantic search, and document Q&A
-- Build and publish iOS SDKs (2C2P iOS SDK) with secure, well-documented APIs
+- Build and publish iOS SDKs and frameworks with secure, well-documented APIs
 - Improve reliability with automated testing, CI/CD, queues, caching, and observability
 - Build full-stack products with React, TypeScript, Laravel, and REST APIs
 - Design scalable cloud systems and production infrastructure
@@ -37,8 +32,6 @@ I enjoy turning complex requirements into simple, reliable products—with a par
 - **[Ornagai Dictionary](https://www.ornagai.com)** — An English–Myanmar and Myanmar–English dictionary with open data and a REST API.
 - **[Oxygen](https://github.com/saturngod/oxygen)** — An open-source project for building useful developer tools and software for the Myanmar language ecosystem.
 - **[Myanso Terminal](https://myanso.myanmars.app/)** — A terminal experience designed to work well with Myanmar Unicode.
-
-I have also designed payment platforms, mobile wallets, streaming services, and enterprise systems used at significant scale. Details about private client and employment work are intentionally omitted.
 
 ## Writing and education
 

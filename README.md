@@ -1,7 +1,6 @@
 # Hi, I'm Htain Lin Shwe 👋
 
 **Senior iOS Developer** — Swift · SwiftUI · UIKit · Objective-C
-US work-authorized (STEM OPT EAD through March 2028) — no sponsorship required · Conroe, TX · Open to relocation & remote
 
 ## About
 
